@@ -1,0 +1,6 @@
+[package]
+name = "zksnark"
+version = "0.1.0"
+authors = ["Danny Browning <danny.browning@protectwise.com>"]
+
+[dependencies]

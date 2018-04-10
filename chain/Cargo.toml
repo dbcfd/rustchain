@@ -1,0 +1,11 @@
+[package]
+name = "chain"
+version = "0.1.0"
+authors = ["Danny Browning <bdbrowning2@gmail.com>"]
+
+[dependencies]
+digest = "0.7"
+
+[dev-dependencies]
+sha2 = "0.7"
+bytes = "0.4"

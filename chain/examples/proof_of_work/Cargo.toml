@@ -1,0 +1,10 @@
+[package]
+name = "proof_of_work"
+version = "0.1.0"
+authors = ["Danny Browning <danny.browning@protectwise.com>"]
+
+[dependencies]
+sha2 = "0.7"
+
+[dependencies.chain]
+path = "chain"
